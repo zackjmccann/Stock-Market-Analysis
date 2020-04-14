@@ -1,1 +1,1 @@
-### Stock MArket analysis using VBA/Excel
+### Stock Market analysis using VBA/Excel
